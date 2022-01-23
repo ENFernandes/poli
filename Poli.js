@@ -30,10 +30,9 @@ function verify(poss) {
         }
         else
         {
-            console.log("Boa na mesma mas não é o mesmo Boa ok?");
+            console.log("Boa na mesma mas não é o mesmos Boa ok?");
             
         }
     } 
 }
-
-verify(3);
+verify(2);
